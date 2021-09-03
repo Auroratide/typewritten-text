@@ -1,0 +1,19 @@
+{
+  "name": "@auroratide/typewritten-text",
+  "version": "0.1.0",
+  "description": "The text types itself out!",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds --node-resolve -p 3000 --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Timothy Foster",
+    "url": "https://auroratide.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.22"
+  }
+}
