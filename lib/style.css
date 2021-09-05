@@ -1,0 +1,7 @@
+typewritten-text-mirror .typewritten-text_character {
+    color: transparent;
+}
+
+typewritten-text-mirror .typewritten-text_character.typewritten-text_revealed {
+    color: inherit;
+}
