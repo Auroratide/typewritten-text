@@ -26,3 +26,9 @@
     0% { opacity: 0; }
     50% { opacity: 1; }
 }
+
+@media (prefers-reduced-motion) {
+    .typewritten-text_character::after {
+        animation: none;
+    }
+}
