@@ -1,7 +1,28 @@
-typewritten-text-mirror .typewritten-text_character {
+.typewritten-text_character {
+    position: relative;
     color: transparent;
 }
 
-typewritten-text-mirror .typewritten-text_character.typewritten-text_revealed {
+.typewritten-text_character.typewritten-text_revealed {
     color: inherit;
+}
+
+.typewritten-text_character::after {
+    box-sizing: border-box;
+    content: '';
+    position: absolute;
+    top: 0; bottom: 0;
+    right: -0.5ch;
+    border-right: var(--typewritten-text_cursor-width, 0.125em) var(--typewritten-text_cursor-style, solid) var(--typewritten-text_cursor-color, currentColor);
+    animation: typewritten-text_blink var(--typewriten-text_cursor-interval, 700ms) infinite steps(1);
+    visibility: hidden;
+}
+
+.typewritten-text_current.typewritten-text_character::after {
+    visibility: visible;
+}
+
+@keyframes typewritten-text_blink {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
 }
