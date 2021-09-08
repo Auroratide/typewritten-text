@@ -1,0 +1,1 @@
+{"version":3,"file":"setViewportPlugin.d.ts","sourceRoot":"","sources":["../src/setViewportPlugin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,uBAAuB,CAAC;AAIzD,MAAM,WAAW,QAAQ;IACvB,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;IAGf,iBAAiB,CAAC,EAAE,MAAM,CAAC;IAC3B,WAAW,CAAC,EAAE,OAAO,CAAC;CACvB;AAmBD,wBAAgB,iBAAiB,IAAI,gBAAgB,CA4BpD"}

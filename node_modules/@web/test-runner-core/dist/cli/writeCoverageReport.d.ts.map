@@ -1,0 +1,1 @@
+{"version":3,"file":"writeCoverageReport.d.ts","sourceRoot":"","sources":["../../src/cli/writeCoverageReport.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,cAAc,EAAE,MAAM,gCAAgC,CAAC;AAChE,OAAO,EAAE,YAAY,EAAE,MAAM,6BAA6B,CAAC;AAE3D,wBAAgB,mBAAmB,CAAC,YAAY,EAAE,YAAY,EAAE,MAAM,EAAE,cAAc,QAsBrF"}

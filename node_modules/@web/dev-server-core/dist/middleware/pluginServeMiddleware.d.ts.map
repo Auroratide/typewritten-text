@@ -1,0 +1,1 @@
+{"version":3,"file":"pluginServeMiddleware.d.ts","sourceRoot":"","sources":["../../src/middleware/pluginServeMiddleware.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,KAAK,CAAC;AAEjC,OAAO,EAAE,MAAM,EAAE,MAAM,kBAAkB,CAAC;AAC1C,OAAO,EAAE,MAAM,EAAE,MAAM,mBAAmB,CAAC;AAE3C;;GAEG;AACH,wBAAgB,qBAAqB,CAAC,MAAM,EAAE,MAAM,EAAE,OAAO,EAAE,MAAM,EAAE,GAAG,UAAU,CA4CnF"}

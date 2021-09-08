@@ -1,0 +1,1 @@
+{"version":3,"file":"BufferedConsole.d.ts","sourceRoot":"","sources":["../../../src/cli/terminal/BufferedConsole.ts"],"names":[],"mappings":"AAGA;;GAEG;AACH,qBAAa,eAAe;IAC1B,OAAO,CAAC,MAAM,CAAa;IAC3B,OAAO,CAAC,SAAS,CAKd;IACI,OAAO,UAA4D;IAE1E,KAAK;CAON"}

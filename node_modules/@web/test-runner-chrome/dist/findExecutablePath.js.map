@@ -1,0 +1,1 @@
+{"version":3,"file":"findExecutablePath.js","sourceRoot":"","sources":["../src/findExecutablePath.ts"],"names":[],"mappings":";;;AAAA,qDAA6D;AAE7D,SAAgB,kBAAkB;IAChC,MAAM,IAAI,GAAG,0BAAc,CAAC,oBAAoB,EAAE,CAAC;IACnD,IAAI,CAAC,IAAI,EAAE;QACT,MAAM,IAAI,KAAK,CACb,iFAAiF;YAC/E,8DAA8D;YAC9D,kFAAkF,CACrF,CAAC;KACH;IAED,OAAO,IAAI,CAAC;AACd,CAAC;AAXD,gDAWC"}

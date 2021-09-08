@@ -1,0 +1,1 @@
+{"version":3,"file":"PluginSyntaxError.d.ts","sourceRoot":"","sources":["../../src/logger/PluginSyntaxError.ts"],"names":[],"mappings":"AAAA,qBAAa,iBAAkB,SAAQ,KAAK;IAEjC,OAAO,EAAE,MAAM;IACf,QAAQ,EAAE,MAAM;IAChB,IAAI,EAAE,MAAM;IACZ,IAAI,EAAE,MAAM;IACZ,MAAM,EAAE,MAAM;gBAJd,OAAO,EAAE,MAAM,EACf,QAAQ,EAAE,MAAM,EAChB,IAAI,EAAE,MAAM,EACZ,IAAI,EAAE,MAAM,EACZ,MAAM,EAAE,MAAM;CAKxB"}

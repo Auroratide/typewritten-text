@@ -1,0 +1,590 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.full.d.ts": {
+        "version": "32b8443be144970b813b9dd72dcdba2059fbdfdae4d3a50c4d8a158ed6057bbe",
+        "signature": "32b8443be144970b813b9dd72dcdba2059fbdfdae4d3a50c4d8a158ed6057bbe",
+        "affectsGlobalScope": false
+      },
+      "../src/Cache.js": {
+        "version": "fc5aa86e6d3b6fc0c1cac4c53e7a67374ac4b5e72cd6c8957346abe2838f451a",
+        "signature": "ae982f4cd3146a57aa485ee3a57f331c9b6c236ecb4d0c090e521a66f6c9458d",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/part.d.ts": {
+        "version": "6f50729be2e6572691c3bc3a048c0590113427949f661c19dc4d9d6b0b002ec8",
+        "signature": "6f50729be2e6572691c3bc3a048c0590113427949f661c19dc4d9d6b0b002ec8",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/template.d.ts": {
+        "version": "698cd981ae211d8e3a54ac1b7c1294e9d68189f6b0e8c1b130944b9fb5e04706",
+        "signature": "698cd981ae211d8e3a54ac1b7c1294e9d68189f6b0e8c1b130944b9fb5e04706",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/template-factory.d.ts": {
+        "version": "d822163e1046f064067d72c24ef34cfe1d70db63a2fc00cd0c436017da7c637a",
+        "signature": "d822163e1046f064067d72c24ef34cfe1d70db63a2fc00cd0c436017da7c637a",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/render-options.d.ts": {
+        "version": "14b525e11e22e192c4f66d4a6ae04ccd30b5859623509d8db0ab1e1333d1d7e7",
+        "signature": "14b525e11e22e192c4f66d4a6ae04ccd30b5859623509d8db0ab1e1333d1d7e7",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/parts.d.ts": {
+        "version": "462c24ab9ab2d1e4a5e4e39712e4ee0f21f98503f0a47693efd9021ac20de213",
+        "signature": "462c24ab9ab2d1e4a5e4e39712e4ee0f21f98503f0a47693efd9021ac20de213",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/template-processor.d.ts": {
+        "version": "6bfc18f74ce170237dcbe1811fc451777636241c91e8fddafbce965b5b541650",
+        "signature": "6bfc18f74ce170237dcbe1811fc451777636241c91e8fddafbce965b5b541650",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/template-result.d.ts": {
+        "version": "1d5238003ef4188c37bf66a0010426ef80323ae121b4d7fd71b1e4d3f2468072",
+        "signature": "1d5238003ef4188c37bf66a0010426ef80323ae121b4d7fd71b1e4d3f2468072",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/default-template-processor.d.ts": {
+        "version": "fbc836966312d35231137a4a2c471ec153a1e2ad004c18b64622f49028ee5af8",
+        "signature": "fbc836966312d35231137a4a2c471ec153a1e2ad004c18b64622f49028ee5af8",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/directive.d.ts": {
+        "version": "37969d2959cc27b71ef094fb68163c4af4cef6df7117f8eb10d6d7c864dd012c",
+        "signature": "37969d2959cc27b71ef094fb68163c4af4cef6df7117f8eb10d6d7c864dd012c",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/dom.d.ts": {
+        "version": "07e68e3257ac03612286e959aa0269ea39701caaee6ba00b07efdd8295ffc3f1",
+        "signature": "07e68e3257ac03612286e959aa0269ea39701caaee6ba00b07efdd8295ffc3f1",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/render.d.ts": {
+        "version": "681860c201a35c8b30b08dcf2850cd936decea0141c7d3b7021bbf611a8b0102",
+        "signature": "681860c201a35c8b30b08dcf2850cd936decea0141c7d3b7021bbf611a8b0102",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/template-instance.d.ts": {
+        "version": "2150ad4f8930ebdbdd90b76b0a82bb6696193515534d7cd4dc7bc1ef3a661f70",
+        "signature": "2150ad4f8930ebdbdd90b76b0a82bb6696193515534d7cd4dc7bc1ef3a661f70",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lit-html.d.ts": {
+        "version": "98a780cce6e0c824539a52b0d983c54bbdd75d06caf8ab2166e90c721458fd8b",
+        "signature": "98a780cce6e0c824539a52b0d983c54bbdd75d06caf8ab2166e90c721458fd8b",
+        "affectsGlobalScope": true
+      },
+      "../../dedupe-mixin/index.d.ts": {
+        "version": "88cda4269c54f0803834fd62b2fac61af8bff7a085693f7ca9df85c1f19dee8a",
+        "signature": "88cda4269c54f0803834fd62b2fac61af8bff7a085693f7ca9df85c1f19dee8a",
+        "affectsGlobalScope": false
+      },
+      "../src/createUniqueTag.js": {
+        "version": "39864b8493950d2d93a39bc3f52da74e20c12e783be2cfbc25e9457e8bb3cd36",
+        "signature": "9384a500fcec82ef782d083f1776abcaeedd468c8cb0603b4a35273701fb267b",
+        "affectsGlobalScope": false
+      },
+      "../src/globalTagsCache.js": {
+        "version": "87ade4b01bc5dc360f7dec4273a1a9ba76ae1421da3fc27bd7307049993d4fda",
+        "signature": "32d3d5f8f86a4e26eed0c4e6080a113ac98fc774c98837970eccf1ae96182ab3",
+        "affectsGlobalScope": false
+      },
+      "../src/registerElement.js": {
+        "version": "44189151451222983747a0136c3643b599084fab843c61a6531cda74bd880c45",
+        "signature": "d7f8400b85040edd23b3335fe82f6b7f40956becf51da0daca748c5bada64970",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-html/lib/shady-render.d.ts": {
+        "version": "812782c8e9f322040ff874107875d68b9388467df9789d214ce88ec2141bcefa",
+        "signature": "812782c8e9f322040ff874107875d68b9388467df9789d214ce88ec2141bcefa",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-element/lib/updating-element.d.ts": {
+        "version": "e5beee6638b2c39816c8c9cd48357c5c63185c605d8e6c6a27fe9a52d13288b4",
+        "signature": "e5beee6638b2c39816c8c9cd48357c5c63185c605d8e6c6a27fe9a52d13288b4",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/lit-element/lib/decorators.d.ts": {
+        "version": "24f779b457778cd852a0518d06f41cd1031f0e1a3afda5633a3c179fd3a2a961",
+        "signature": "24f779b457778cd852a0518d06f41cd1031f0e1a3afda5633a3c179fd3a2a961",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-element/lib/css-tag.d.ts": {
+        "version": "9b54401ac2630daf241248d55008ba86276c3069319f6b5f76daf0a716bc5ff7",
+        "signature": "9b54401ac2630daf241248d55008ba86276c3069319f6b5f76daf0a716bc5ff7",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/lit-element/lit-element.d.ts": {
+        "version": "d90876b57e5b9eae685e9f9ee526d070b423eeafb4d3ab22f70c9bf82586f099",
+        "signature": "d90876b57e5b9eae685e9f9ee526d070b423eeafb4d3ab22f70c9bf82586f099",
+        "affectsGlobalScope": true
+      },
+      "../src/types.d.ts": {
+        "version": "53295858dacf67bab25922be73cc7adcd38f4db654012dc9aaa7bf5e7cbd314a",
+        "signature": "53295858dacf67bab25922be73cc7adcd38f4db654012dc9aaa7bf5e7cbd314a",
+        "affectsGlobalScope": false
+      },
+      "../src/transform.js": {
+        "version": "6dda48fcf361146ddde3491518872e3b0a356691d35b32cf466dde2cff673f85",
+        "signature": "d6abb7446189a4bc1ea7ce29457db5573d96e3fdd377314dacd4c92371a74ee7",
+        "affectsGlobalScope": false
+      },
+      "../src/shadyTemplateFactory.js": {
+        "version": "0655038e47496236967f338cf7881cb4206a6b78ce726acae87ebef845f42d06",
+        "signature": "2c5d9258adfae5beca14e4aeaab5c9c499e81688b11049c26b6942651522277a",
+        "affectsGlobalScope": false
+      },
+      "../src/ScopedElementsMixin.js": {
+        "version": "95b5f324b70c7e033024035cba5c9c514ded30105ed61482a25cd2ed0c6d92b8",
+        "signature": "4e2089b7fd3fc16e38918c6b84289694cd519f9f52fab3f0c29a022f35c2da92",
+        "affectsGlobalScope": false
+      },
+      "../index.js": {
+        "version": "0bfcbfbe72f7cd8497ff8e4b7d978fc849d42a3dde58821571ac1f5742586957",
+        "signature": "fdf0aa1a72ff0188a9013926201a391116ef6701cd439b89850786abdf755fb8",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/mocha/index.d.ts": {
+        "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/chai/index.d.ts": {
+        "version": "e9cf450600c496a87ab96d288157b79be6c193e8623bd93553d5d64755940dea",
+        "signature": "e9cf450600c496a87ab96d288157b79be6c193e8623bd93553d5d64755940dea",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "target": 5,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "downlevelIteration": true,
+      "strict": false,
+      "moduleResolution": 2,
+      "typeRoots": [
+        "../../../@types",
+        "../../../types-global",
+        "../../../types"
+      ],
+      "types": [
+        "mocha",
+        "chai"
+      ],
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": 99,
+      "outDir": "./",
+      "rootDir": "..",
+      "composite": true,
+      "allowJs": true,
+      "checkJs": true,
+      "emitDeclarationOnly": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../../../node_modules/lit-element/lib/decorators.d.ts": [
+        "../../../node_modules/lit-element/lib/updating-element.d.ts"
+      ],
+      "../../../node_modules/lit-element/lit-element.d.ts": [
+        "../../../node_modules/lit-element/lib/css-tag.d.ts",
+        "../../../node_modules/lit-element/lib/decorators.d.ts",
+        "../../../node_modules/lit-element/lib/updating-element.d.ts",
+        "../../../node_modules/lit-html/lib/shady-render.d.ts",
+        "../../../node_modules/lit-html/lit-html.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/default-template-processor.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/directive.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/parts.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/render-options.d.ts": [
+        "../../../node_modules/lit-html/lib/template-factory.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/render.d.ts": [
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/shady-render.d.ts": [
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts",
+        "../../../node_modules/lit-html/lit-html.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-factory.d.ts": [
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-instance.d.ts": [
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-processor.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-result.d.ts": [
+        "../../../node_modules/lit-html/lib/template-processor.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template.d.ts": [
+        "../../../node_modules/lit-html/lib/template-result.d.ts"
+      ],
+      "../../../node_modules/lit-html/lit-html.d.ts": [
+        "../../../node_modules/lit-html/lib/default-template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/directive.d.ts",
+        "../../../node_modules/lit-html/lib/dom.d.ts",
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/render.d.ts",
+        "../../../node_modules/lit-html/lib/template-factory.d.ts",
+        "../../../node_modules/lit-html/lib/template-instance.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../index.js": [
+        "../src/ScopedElementsMixin.js",
+        "../src/types.d.ts"
+      ],
+      "../src/ScopedElementsMixin.js": [
+        "../../../node_modules/lit-element/lit-element.d.ts",
+        "../../../node_modules/lit-html/lib/shady-render.d.ts",
+        "../../../node_modules/lit-html/lit-html.d.ts",
+        "../../dedupe-mixin/index.d.ts",
+        "../src/Cache.js",
+        "../src/registerElement.js",
+        "../src/shadyTemplateFactory.js",
+        "../src/transform.js",
+        "../src/types.d.ts"
+      ],
+      "../src/registerElement.js": [
+        "../src/Cache.js",
+        "../src/createUniqueTag.js",
+        "../src/globalTagsCache.js"
+      ],
+      "../src/shadyTemplateFactory.js": [
+        "../../../node_modules/lit-html/lib/template-factory.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../src/transform.js": [
+        "../src/Cache.js",
+        "../src/registerElement.js",
+        "../src/types.d.ts"
+      ],
+      "../src/types.d.ts": [
+        "../../../node_modules/lit-element/lit-element.d.ts",
+        "../../dedupe-mixin/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../../node_modules/lit-element/lib/decorators.d.ts": [
+        "../../../node_modules/lit-element/lib/updating-element.d.ts"
+      ],
+      "../../../node_modules/lit-element/lit-element.d.ts": [
+        "../../../node_modules/lit-element/lib/css-tag.d.ts",
+        "../../../node_modules/lit-element/lib/decorators.d.ts",
+        "../../../node_modules/lit-element/lib/updating-element.d.ts",
+        "../../../node_modules/lit-html/lib/shady-render.d.ts",
+        "../../../node_modules/lit-html/lit-html.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/default-template-processor.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/directive.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/parts.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/render-options.d.ts": [
+        "../../../node_modules/lit-html/lib/template-factory.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/render.d.ts": [
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/shady-render.d.ts": [
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts",
+        "../../../node_modules/lit-html/lit-html.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-factory.d.ts": [
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-instance.d.ts": [
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-processor.d.ts": [
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template-result.d.ts": [
+        "../../../node_modules/lit-html/lib/template-processor.d.ts"
+      ],
+      "../../../node_modules/lit-html/lib/template.d.ts": [
+        "../../../node_modules/lit-html/lib/template-result.d.ts"
+      ],
+      "../../../node_modules/lit-html/lit-html.d.ts": [
+        "../../../node_modules/lit-html/lib/default-template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/directive.d.ts",
+        "../../../node_modules/lit-html/lib/dom.d.ts",
+        "../../../node_modules/lit-html/lib/part.d.ts",
+        "../../../node_modules/lit-html/lib/parts.d.ts",
+        "../../../node_modules/lit-html/lib/render-options.d.ts",
+        "../../../node_modules/lit-html/lib/render.d.ts",
+        "../../../node_modules/lit-html/lib/template-factory.d.ts",
+        "../../../node_modules/lit-html/lib/template-instance.d.ts",
+        "../../../node_modules/lit-html/lib/template-processor.d.ts",
+        "../../../node_modules/lit-html/lib/template-result.d.ts",
+        "../../../node_modules/lit-html/lib/template.d.ts"
+      ],
+      "../src/ScopedElementsMixin.js": [
+        "../../../node_modules/lit-element/lit-element.d.ts",
+        "../../../node_modules/lit-html/lib/shady-render.d.ts",
+        "../src/types.d.ts"
+      ],
+      "../src/registerElement.js": [
+        "../src/Cache.js"
+      ],
+      "../src/transform.js": [
+        "../src/Cache.js"
+      ],
+      "../src/types.d.ts": [
+        "../../../node_modules/lit-element/lit-element.d.ts",
+        "../../dedupe-mixin/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../node_modules/@types/chai/index.d.ts",
+      "../../../node_modules/@types/mocha/index.d.ts",
+      "../../../node_modules/lit-element/lib/css-tag.d.ts",
+      "../../../node_modules/lit-element/lib/decorators.d.ts",
+      "../../../node_modules/lit-element/lib/updating-element.d.ts",
+      "../../../node_modules/lit-element/lit-element.d.ts",
+      "../../../node_modules/lit-html/lib/default-template-processor.d.ts",
+      "../../../node_modules/lit-html/lib/directive.d.ts",
+      "../../../node_modules/lit-html/lib/dom.d.ts",
+      "../../../node_modules/lit-html/lib/part.d.ts",
+      "../../../node_modules/lit-html/lib/parts.d.ts",
+      "../../../node_modules/lit-html/lib/render-options.d.ts",
+      "../../../node_modules/lit-html/lib/render.d.ts",
+      "../../../node_modules/lit-html/lib/shady-render.d.ts",
+      "../../../node_modules/lit-html/lib/template-factory.d.ts",
+      "../../../node_modules/lit-html/lib/template-instance.d.ts",
+      "../../../node_modules/lit-html/lib/template-processor.d.ts",
+      "../../../node_modules/lit-html/lib/template-result.d.ts",
+      "../../../node_modules/lit-html/lib/template.d.ts",
+      "../../../node_modules/lit-html/lit-html.d.ts",
+      "../../../node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.full.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../dedupe-mixin/index.d.ts",
+      "../index.js",
+      "../src/Cache.js",
+      "../src/ScopedElementsMixin.js",
+      "../src/createUniqueTag.js",
+      "../src/globalTagsCache.js",
+      "../src/registerElement.js",
+      "../src/shadyTemplateFactory.js",
+      "../src/transform.js",
+      "../src/types.d.ts"
+    ]
+  },
+  "version": "4.1.5"
+}

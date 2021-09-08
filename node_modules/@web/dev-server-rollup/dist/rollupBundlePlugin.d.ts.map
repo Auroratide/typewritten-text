@@ -1,0 +1,1 @@
+{"version":3,"file":"rollupBundlePlugin.d.ts","sourceRoot":"","sources":["../src/rollupBundlePlugin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,sBAAsB,CAAC;AAE9C,OAAO,EAAU,aAAa,EAAE,MAAM,QAAQ,CAAC;AAE/C,MAAM,WAAW,mBAAmB;IAClC,YAAY,EAAE,aAAa,CAAC;CAC7B;AAeD,wBAAgB,kBAAkB,CAAC,aAAa,EAAE,mBAAmB,GAAG,MAAM,CAgD7E"}
