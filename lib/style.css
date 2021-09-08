@@ -1,3 +1,16 @@
+typewritten-text {
+    /* Prevent double-copying */
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+typewritten-text-mirror {
+    -ms-user-select: text;
+    -webkit-user-select: text;
+    user-select: text;
+}
+
 .typewritten-text_character {
     color: transparent;
 }
