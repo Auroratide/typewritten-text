@@ -15,7 +15,7 @@ You can import through CDN:
 <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
 ```
 
-Or, you may install through NPM and include it as part of your build process:
+Or, you may install through [NPM](https://www.npmjs.com/package/@auroratide/typewritten-text) and include it as part of your build process:
 
 ```
 $ npm i @auroratide/typewritten-text
