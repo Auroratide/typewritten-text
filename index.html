@@ -5,12 +5,23 @@
         <title>typewritten-text Element</title>
 
         <link rel="stylesheet" href="lib/style.css" />
+        <link rel="stylesheet" href="demo.css" />
         <script type="module" src="lib/define.js"></script>
+        <script type="module" src="demo.js"></script>
     </head>
     <body>
         <main>
-            <h1>typewritten-text Demo</h1>
-            <typewritten-text>Hello world!</typewritten-text>
+            <h1><typewritten-text>typewritten-text Demo</typewritten-text></h1>
+            <section id="main-demo">
+                <figure>
+                    <p>This <typewritten-text paused>typewriter effect</typewritten-text> is achieved using <typewritten-text paused>custom elements!</typewritten-text></p>
+                    <button class="start">Run</button>
+                </figure>
+                <pre><code>This <mark><strong>&lt;typewritten-text paused></strong>typewriter effect<strong>&lt;/typewritten-text></strong></mark> is achieved using <mark><strong>&lt;typewritten-text paused></strong>custom elements!<strong>&lt;/typewritten-text></strong></mark></code></pre>
+            </section>
         </main>
+        <footer>
+            <p>Made by <a href="https://auroratide.com">Timothy Foster</a></p>
+        </footer>
     </body>
 </html>

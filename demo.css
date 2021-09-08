@@ -1,0 +1,117 @@
+:root {
+    --font: 'Source Sans Pro', sans-serif;
+
+    --color-bg: hsl(0, 0%, 93%);
+    --color-fg: hsl(0, 0%, 100%);
+    --color-primary: 211, 69%, 57%;
+
+    --code-font: 'Source Code Pro', monospace;
+    --code-base: hsl(0, 0%, 0%);
+    --code-tagname: hsl(195, 100%, 33%);
+    --code-keyword: hsl(217, 100%, 50%);
+    --code-string: hsl(0, 77%, 36%);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin-top: 0;
+}
+
+body {
+    font-family: var(--font);
+    padding: 0.5em;
+    background: var(--color-bg);
+}
+
+main, footer {
+    max-width: 50rem;
+    margin: auto;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5em;
+}
+
+button, ::part(button) {
+    font-family: var(--font);
+    font-size: 0.75em;
+    border-radius: 0.25em;
+    border: none;
+    padding: 0.625em 1.125em;
+    color: var(--color-fg);
+    text-transform: uppercase;
+    letter-spacing: 0.0625em;
+    box-shadow: 0 0.25em 0.25em -0.125em rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    background: hsl(var(--color-primary));
+}
+
+button:hover, ::part(button):hover {
+    box-shadow: 0 0.25em 0.25em -0.125em rgba(0, 0, 0, 0.25), 0 0 0 3em rgba(0, 0, 0, 0.2) inset;
+}
+
+button:active, ::part(button):active, button[disabled] {
+    box-shadow: 0 0 0 3em rgba(0, 0, 0, 0.3) inset;
+}
+
+button[disabled] {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.bigger {
+    font-size: 1.25em;
+}
+
+figure {
+    font-size: 1.5em;
+    background-color: var(--color-fg);
+    padding: 1em;
+    border-radius: 0.25em;
+    border: 0.0625em solid hsla(var(--color-primary), 1);
+    box-shadow: 0.125em 0.125em 0.25em hsla(0, 0%, 0%, 0.15) inset;
+    position: relative;
+    margin: 0 0 1rem;
+}
+
+figure button {
+    position: absolute;
+    font-size: 0.667em;
+    bottom: 0.25em;
+    right: 0.25em;
+}
+
+pre {
+    white-space: break-spaces;
+}
+
+pre code {
+    display: block;
+    font-size: 1.125em;
+    padding: 0.75em;
+    background-color: hsl(210, 11%, 4%);
+    border-radius: 0.25em;
+    color: hsl(60, 30%, 96%);
+    line-height: 1.5;
+    border: 0.125em solid hsl(0, 0%, 47%);
+}
+
+code mark {
+    background: none;
+    color: hsl(120, 47%, 65%);
+}
+
+code mark strong {
+    color:hsl(23, 95%, 52%);
+}
+
+#main-demo typewritten-text[paused] .typewritten-text_character::after {
+    visibility: hidden;
+}
