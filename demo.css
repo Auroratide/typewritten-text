@@ -66,10 +66,6 @@ button[disabled] {
     opacity: 0.5;
 }
 
-.bigger {
-    font-size: 1.25em;
-}
-
 figure {
     font-size: 1.5em;
     background-color: var(--color-fg);
@@ -112,6 +108,15 @@ code mark strong {
     color:hsl(23, 95%, 52%);
 }
 
-#main-demo typewritten-text[paused] .typewritten-text_character::after {
+.demo {
+    margin-bottom: 6rem;
+}
+
+.demo typewritten-text[paused] .typewritten-text_character::after {
     visibility: hidden;
+}
+
+.special {
+    font-size: 1.25em;
+    color:hsl(0, 77%, 36%);
 }

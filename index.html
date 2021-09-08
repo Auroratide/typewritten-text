@@ -12,12 +12,33 @@
     <body>
         <main>
             <h1><typewritten-text>typewritten-text Demo</typewritten-text></h1>
-            <section id="main-demo">
+            <section id="main-demo" class="demo">
                 <figure>
                     <p>This <typewritten-text paused>typewriter effect</typewritten-text> is achieved using <typewritten-text paused>custom elements!</typewritten-text></p>
                     <button class="start">Run</button>
                 </figure>
                 <pre><code>This <mark><strong>&lt;typewritten-text paused></strong>typewriter effect<strong>&lt;/typewritten-text></strong></mark> is achieved using <mark><strong>&lt;typewritten-text paused></strong>custom elements!<strong>&lt;/typewritten-text></strong></mark></code></pre>
+            </section>
+            <section id="markdown-demo" class="demo">
+                <figure>
+                    <p>This works with <typewritten-text paused><strong>other</strong> <em>markdown</em> <span class="special">elements</span></typewritten-text> as well!</p>
+                    <button class="start">Run</button>
+                </figure>
+                <pre><code>This works with <mark><strong>&lt;typewritten-text paused></strong>&lt;strong>other&lt;/strong> &lt;em>markdown&lt;/em> &lt;span class="special">elements&lt;/span><strong>&lt;/typewritten-text></strong></mark> as well!</code></pre>
+            </section>
+            <section id="interval-demo" class="demo">
+                <figure>
+                    <p>You can <typewritten-text paused letter-interval="400">change</typewritten-text> the <typewritten-text paused letter-interval="50">typing rate!</typewritten-text></p>
+                    <button class="start">Run</button>
+                </figure>
+                <pre><code>You can <mark><strong>&lt;typewritten-text paused letter-interval="400"></strong>change<strong>&lt;/typewritten-text></strong></mark> the <mark><strong>&lt;typewritten-text paused letter-interval="50"></strong>typing rate!<strong>&lt;/typewritten-text></strong></mark></code></pre>
+            </section>
+            <section id="repeat-demo" class="demo">
+                <figure>
+                    <p>Text can be set to <typewritten-text repeat>repeat indefinitely!</typewritten-text></p>
+                    <button class="toggle">Toggle</button>
+                </figure>
+                <pre><code>Text can be set to <mark><strong>&lt;typewritten-text repeat></strong>repeat indefinitely!<strong>&lt;/typewritten-text></strong></mark></code></pre>
             </section>
         </main>
         <footer>
