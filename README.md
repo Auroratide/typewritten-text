@@ -4,6 +4,8 @@ Performs a **typewriter effect** on the selected piece of text!
 
 ![Text is automatically typed out one letter at a time](typewritten-text.gif)
 
+See the **[Live Demo](https://auroratide.github.io/typewritten-text/)** for some examples!
+
 ## Installation
 
 You can import through CDN:
