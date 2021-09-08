@@ -2,6 +2,12 @@
   "name": "@auroratide/typewritten-text",
   "version": "0.1.0",
   "description": "The text types itself out!",
+  "keywords": [
+    "text",
+    "element",
+    "typing",
+    "web-component"
+  ],
   "type": "module",
   "main": "index.js",
   "scripts": {
