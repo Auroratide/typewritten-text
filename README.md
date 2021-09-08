@@ -20,8 +20,8 @@ $ npm i @auroratide/typewritten-text
 ```
 
 ```js
-import '@auroratide/typewritten-text/lib/style.css`
-import '@auroratide/typewritten-text/lib/define.js`
+import '@auroratide/typewritten-text/lib/style.css'
+import '@auroratide/typewritten-text/lib/define.js'
 ```
 
 ## Usage
