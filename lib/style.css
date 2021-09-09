@@ -15,6 +15,10 @@ typewritten-text-mirror {
     color: transparent;
 }
 
+.typewritten-text_word {
+    white-space: nowrap;
+}
+
 .typewritten-text_character,
 .typewritten-text_start {
     position: relative;
