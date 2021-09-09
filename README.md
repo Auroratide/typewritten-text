@@ -28,13 +28,13 @@ import '@auroratide/typewritten-text/lib/define.js'
 
 ## Usage
 
-`<typewritten-text>` is an **inline markdown element** that you can use in your HTML document.
+`<typewritten-text>` is an **inline markup element** that you can use in your HTML document.
 
 ```html
 <p>Some <typewritten-text>text to type out!</typewritten-text></p>
 ```
 
-Since this is Just HTML<sup>TM</sup>, you can use `typewritten-text` with other markdown tags:
+Since this is Just HTML<sup>TM</sup>, you can use `typewritten-text` with other markup tags:
 
 ```html
 <p><typewritten-text>Some <strong>strong</strong> and <em>emphasized</em> text.</typewritten-text></p>
@@ -186,7 +186,7 @@ This custom element is built with accessibility in mind!
 
 It is possible the non-trivial implementation of `typewritten-text` can lead to unexpected complications with advanced customization.
 
-Most notably, `typewritten-text` works by **cloning** its inner content into a separate custom element called `typewritten-text-mirror`, within which each letter is wrapped with a `span` denoted with the class `typewritten-text_character`. The following is an example before-and-after of what the resulting markdown looks like once the element has finished rendering:
+Most notably, `typewritten-text` works by **cloning** its inner content into a separate custom element called `typewritten-text-mirror`, within which each letter is wrapped with a `span` denoted with the class `typewritten-text_character`. The following is an example before-and-after of what the resulting markup looks like once the element has finished rendering:
 
 ```html
 <typewritten-text>Hey</typewritten-text>
@@ -208,5 +208,5 @@ The only part that becomes visible to the viewer is the contents of `typewritten
 This architecture has the following explicit goals:
 
 * Preserve, as much as possible, the way the web developer has specified the usage of the element. This means not overriding the inner content of `typewritten-text`.
-* Allow the use of semantic markdown within `typewritten-text` so it acts as much as possible like a native text-level element
+* Allow the use of semantic markup within `typewritten-text` so it acts as much as possible like a native text-level element
 * Enable typing each individual character regardless of its formatting, allowing for size- and position-independence.
