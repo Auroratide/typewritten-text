@@ -194,10 +194,12 @@ Most notably, `typewritten-text` works by **cloning** its inner content into a s
 <!-- ...becomes... -->
 
 <typewritten-text>Hey<typewritten-text-mirror slot="mirror" aria-label="Hey">
-    <span class="typewritten-text_character" aria-hidden="true"></span>
-    <span class="typewritten-text_character" aria-hidden="true">H</span>
-    <span class="typewritten-text_character" aria-hidden="true">e</span>
-    <span class="typewritten-text_character" aria-hidden="true">y</span>
+    <span class="typewritten-text_word">
+        <span class="typewritten-text_character" aria-hidden="true"></span>
+        <span class="typewritten-text_character" aria-hidden="true">H</span>
+        <span class="typewritten-text_character" aria-hidden="true">e</span>
+        <span class="typewritten-text_character" aria-hidden="true">y</span>
+    </span>
 </typewritten-text-mirror></typewritten-text>
 ```
 
