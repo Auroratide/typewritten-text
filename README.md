@@ -25,6 +25,7 @@ $ npm i @auroratide/typewritten-text
 import '@auroratide/typewritten-text/lib/style.css'
 import '@auroratide/typewritten-text/lib/define.js'
 ```
+<small><strong>Note</strong>: How you import into your project depends on its configuration. The <code>style.css</code> file should be imported with your root CSS, and the <code>define.js</code> file should imported with your root Javascript.</small>
 
 ## Usage
 
