@@ -2,7 +2,7 @@
 
 Performs a **typewriter effect** on the selected piece of text!
 
-![Text is automatically typed out one letter at a time](typewritten-text.gif)
+![Text is automatically typed out one letter at a time](https://github.com/Auroratide/typewritten-text/blob/master/typewritten-text.gif)
 
 See the **[Live Demo](https://auroratide.github.io/typewritten-text/)** for some examples!
 
