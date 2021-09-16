@@ -9,7 +9,8 @@
     "web-component"
   ],
   "type": "module",
-  "main": "index.js",
+  "main": "lib/typewritten-text.js",
+  "module": "lib/typewritten-text.js",
   "scripts": {
     "start": "wds --node-resolve -p 3000 --watch",
     "test": "wtr --node-resolve ./**/*.spec.js",
