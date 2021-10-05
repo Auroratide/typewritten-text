@@ -6,7 +6,8 @@
     "text",
     "element",
     "typing",
-    "web-component"
+    "web-component",
+    "typewriter"
   ],
   "type": "module",
   "main": "lib/typewritten-text.js",
